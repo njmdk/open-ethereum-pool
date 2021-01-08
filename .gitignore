@@ -1,6 +1,8 @@
 .DS_Store
 config.json
 testnet.json
+.gitignore
 
 /build/_workspace/
 /build/bin/
+/.idea

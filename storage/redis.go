@@ -8,8 +8,6 @@ import (
 	"time"
 
 	"gopkg.in/redis.v3"
-
-	"github.com/sammy007/open-ethereum-pool/util"
 )
 
 type Config struct {
