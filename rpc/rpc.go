@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/njmdk/open-ethereum-pool/util"
 	"math/big"
 	"net/http"
 	"strconv"

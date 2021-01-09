@@ -1,6 +1,8 @@
 package proxy
 
 import (
+	"github.com/njmdk/open-ethereum-pool/rpc"
+	"github.com/njmdk/open-ethereum-pool/util"
 	"log"
 	"math/big"
 	"strconv"
